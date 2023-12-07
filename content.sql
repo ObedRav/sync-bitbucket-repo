@@ -85,4 +85,3 @@ SELECT * from uenek;
 SELECT * from lmdgj;
 SELECT * from fkxmo;
 SELECT * from pfkkv;
-SELECT * from mtpmc;
