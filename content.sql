@@ -117,3 +117,4 @@ SELECT * from adsqs;
 SELECT * from srwqr;
 SELECT * from iefuw;
 SELECT * from yaemk;
+SELECT * from uaday;
