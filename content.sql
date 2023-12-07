@@ -42,3 +42,4 @@ SELECT * from cwjit;
 SELECT * from didvm;
 SELECT * from clbpe;
 SELECT * from lpxgi;
+SELECT * from kikft;
