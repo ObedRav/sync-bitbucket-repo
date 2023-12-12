@@ -71,4 +71,4 @@ SELECT * from mpnrq;
 SELECT * from tkagl;
 SELECT * from kpnqt;
 SELECT * from ovekr;
-SELECT * from ciiwl;
+SELECT * from xiold;
