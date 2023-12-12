@@ -63,4 +63,4 @@ SELECT * from kidgk;
 SELECT * from fmwva;
 SELECT * from sukyo;
 SELECT * from ywwpj;
-SELECT * from spene;
+SELECT * from fbimw;
