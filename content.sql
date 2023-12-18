@@ -101,3 +101,4 @@ SELECT * from edhkh;
 SELECT * from tnrju;
 SELECT * from cjbwp;
 SELECT * from mfmcc;
+SELECT * from yqgmq;
