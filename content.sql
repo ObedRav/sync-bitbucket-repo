@@ -67,3 +67,4 @@ SELECT * from fbimw;
 SELECT * from arcwh;
 SELECT * from sqdkl;
 SELECT * from wtteo;
+SELECT * from mpnrq;
