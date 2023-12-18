@@ -77,3 +77,4 @@ SELECT * from onorj;
 SELECT * from ernjd;
 SELECT * from uyowj;
 SELECT * from jvxop;
+SELECT * from wsaxr;
