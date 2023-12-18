@@ -85,3 +85,4 @@ SELECT * from uenek;
 SELECT * from lmdgj;
 SELECT * from fkxmo;
 SELECT * from enncy;
+SELECT * from uioeq;
