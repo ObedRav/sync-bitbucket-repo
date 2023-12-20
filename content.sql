@@ -24,3 +24,4 @@ SELECT * from pghuk;
 SELECT * from hdqxc;
 SELECT * from xtxkv;
 SELECT * from hcmns;
+SELECT * from gxgfo;
