@@ -9,4 +9,4 @@ SELECT * from ilfbe;
 SELECT * from vgecx;
 SELECT * from gyosk;
 SELECT * from cleny;
-SELECT * from kkcty;
+SELECT * from hquwj;
