@@ -65,3 +65,4 @@ SELECT * from sukyo;
 SELECT * from ywwpj;
 SELECT * from fbimw;
 SELECT * from arcwh;
+SELECT * from sqdkl;
