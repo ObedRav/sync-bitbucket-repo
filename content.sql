@@ -110,3 +110,4 @@ SELECT * from cewkj;
 SELECT * from vvjpx;
 SELECT * from bxgry;
 SELECT * from oiljp;
+SELECT * from xkmyc;
