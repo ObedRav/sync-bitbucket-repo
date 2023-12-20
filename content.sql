@@ -73,3 +73,4 @@ SELECT * from kpnqt;
 SELECT * from ovekr;
 SELECT * from xiold;
 SELECT * from qeres;
+SELECT * from onorj;
