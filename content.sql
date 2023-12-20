@@ -10,3 +10,4 @@ SELECT * from vgecx;
 SELECT * from gyosk;
 SELECT * from cleny;
 SELECT * from hquwj;
+SELECT * from krles;
