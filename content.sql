@@ -25,3 +25,4 @@ SELECT * from hdqxc;
 SELECT * from xtxkv;
 SELECT * from hcmns;
 SELECT * from tlqrw;
+SELECT * from rieji;
