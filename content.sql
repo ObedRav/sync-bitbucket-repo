@@ -68,3 +68,4 @@ SELECT * from arcwh;
 SELECT * from sqdkl;
 SELECT * from wtteo;
 SELECT * from mpnrq;
+SELECT * from tkagl;
