@@ -1,1 +1,1 @@
-SELECT * from cgkyr;
+SELECT * from lxwvv;
