@@ -26,3 +26,4 @@ SELECT * from xtxkv;
 SELECT * from hcmns;
 SELECT * from tlqrw;
 SELECT * from rieji;
+SELECT * from rhnit;
