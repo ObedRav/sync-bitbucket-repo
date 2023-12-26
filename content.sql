@@ -69,3 +69,4 @@ SELECT * from sqdkl;
 SELECT * from wtteo;
 SELECT * from mpnrq;
 SELECT * from tkagl;
+SELECT * from ajrnx;
