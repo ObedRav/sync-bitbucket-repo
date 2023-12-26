@@ -12,4 +12,4 @@ SELECT * from cleny;
 SELECT * from hquwj;
 SELECT * from krles;
 SELECT * from bnlju;
-SELECT * from qnemp;
+SELECT * from gjown;
