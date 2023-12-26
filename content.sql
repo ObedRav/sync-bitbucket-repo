@@ -44,3 +44,4 @@ SELECT * from clbpe;
 SELECT * from ddxdn;
 SELECT * from hpkam;
 SELECT * from irkgk;
+SELECT * from uxsfi;
