@@ -28,4 +28,4 @@ SELECT * from tlqrw;
 SELECT * from rieji;
 SELECT * from rhnit;
 SELECT * from nqpyx;
-SELECT * from ddexq;
+SELECT * from jdgee;
