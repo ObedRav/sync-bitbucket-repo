@@ -30,4 +30,4 @@ SELECT * from rhnit;
 SELECT * from nqpyx;
 SELECT * from ykbhw;
 SELECT * from cqmif;
-SELECT * from ttkij;
+SELECT * from qbggt;
