@@ -45,3 +45,4 @@ SELECT * from ddxdn;
 SELECT * from hpkam;
 SELECT * from irkgk;
 SELECT * from jiwwt;
+SELECT * from cheya;
