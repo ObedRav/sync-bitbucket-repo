@@ -46,4 +46,4 @@ SELECT * from hpkam;
 SELECT * from irkgk;
 SELECT * from jiwwt;
 SELECT * from cuqxx;
-SELECT * from mdoym;
+SELECT * from fpeiw;
