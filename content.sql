@@ -79,4 +79,4 @@ SELECT * from uyowj;
 SELECT * from jvxop;
 SELECT * from wsaxr;
 SELECT * from chycl;
-SELECT * from mbchi;
+SELECT * from qdmty;
