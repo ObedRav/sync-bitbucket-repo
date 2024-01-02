@@ -74,4 +74,4 @@ SELECT * from ovekr;
 SELECT * from xiold;
 SELECT * from qeres;
 SELECT * from onorj;
-SELECT * from bnssb;
+SELECT * from ernjd;
