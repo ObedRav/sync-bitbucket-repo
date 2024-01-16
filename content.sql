@@ -47,3 +47,4 @@ SELECT * from irkgk;
 SELECT * from jiwwt;
 SELECT * from cuqxx;
 SELECT * from npedq;
+SELECT * from psnrl;
