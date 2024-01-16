@@ -89,3 +89,4 @@ SELECT * from uioeq;
 SELECT * from sylpn;
 SELECT * from yxudb;
 SELECT * from yitkv;
+SELECT * from xgqow;
