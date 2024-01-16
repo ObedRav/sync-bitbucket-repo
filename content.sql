@@ -112,3 +112,4 @@ SELECT * from bxgry;
 SELECT * from oiljp;
 SELECT * from xkmyc;
 SELECT * from dkypp;
+SELECT * from nhiwf;
