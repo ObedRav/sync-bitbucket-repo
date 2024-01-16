@@ -70,3 +70,4 @@ SELECT * from wtteo;
 SELECT * from mpnrq;
 SELECT * from tkagl;
 SELECT * from kpnqt;
+SELECT * from ovekr;
