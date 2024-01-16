@@ -120,3 +120,4 @@ SELECT * from lcujs;
 SELECT * from cpvay;
 SELECT * from tvlmv;
 SELECT * from tbfjy;
+SELECT * from ntlle;
