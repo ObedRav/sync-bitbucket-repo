@@ -32,3 +32,4 @@ SELECT * from ykbhw;
 SELECT * from cqmif;
 SELECT * from yggyw;
 SELECT * from qvgrk;
+SELECT * from nmogf;
