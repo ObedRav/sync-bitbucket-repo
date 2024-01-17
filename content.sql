@@ -81,3 +81,4 @@ SELECT * from wsaxr;
 SELECT * from chycl;
 SELECT * from bmuwb;
 SELECT * from lqcqj;
+SELECT * from uenek;
