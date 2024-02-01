@@ -35,3 +35,4 @@ SELECT * from qvgrk;
 SELECT * from nmogf;
 SELECT * from fwvvo;
 SELECT * from ullph;
+SELECT * from tnmtn;
