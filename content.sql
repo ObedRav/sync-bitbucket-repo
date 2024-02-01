@@ -34,3 +34,4 @@ SELECT * from yggyw;
 SELECT * from qvgrk;
 SELECT * from nmogf;
 SELECT * from fwvvo;
+SELECT * from jevyp;
