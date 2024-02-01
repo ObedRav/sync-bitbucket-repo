@@ -14,4 +14,3 @@ SELECT * from krles;
 SELECT * from bnlju;
 SELECT * from gjown;
 SELECT * from cewhr;
-SELECT * from olcef;
