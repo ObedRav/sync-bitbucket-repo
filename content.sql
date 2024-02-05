@@ -37,3 +37,4 @@ SELECT * from fwvvo;
 SELECT * from ullph;
 SELECT * from dfjth;
 SELECT * from tuaox;
+SELECT * from onabx;
