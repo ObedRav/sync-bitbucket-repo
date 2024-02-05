@@ -107,3 +107,4 @@ SELECT * from egvlc;
 SELECT * from xclcj;
 SELECT * from uotnd;
 SELECT * from cewkj;
+SELECT * from vvjpx;
