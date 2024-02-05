@@ -106,3 +106,4 @@ SELECT * from qbblf;
 SELECT * from egvlc;
 SELECT * from xclcj;
 SELECT * from uotnd;
+SELECT * from cewkj;
