@@ -49,3 +49,4 @@ SELECT * from cuqxx;
 SELECT * from npedq;
 SELECT * from psnrl;
 SELECT * from abwir;
+SELECT * from asbki;
