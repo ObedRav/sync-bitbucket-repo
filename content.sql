@@ -122,3 +122,4 @@ SELECT * from tvlmv;
 SELECT * from tbfjy;
 SELECT * from ntlle;
 SELECT * from hdfur;
+SELECT * from vdeef;
