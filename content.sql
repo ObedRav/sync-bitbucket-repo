@@ -50,3 +50,4 @@ SELECT * from npedq;
 SELECT * from psnrl;
 SELECT * from abwir;
 SELECT * from asbki;
+SELECT * from cgqxm;
