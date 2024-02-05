@@ -51,3 +51,4 @@ SELECT * from psnrl;
 SELECT * from abwir;
 SELECT * from asbki;
 SELECT * from cgqxm;
+SELECT * from ssavl;
