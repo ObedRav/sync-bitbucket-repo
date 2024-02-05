@@ -36,3 +36,4 @@ SELECT * from nmogf;
 SELECT * from fwvvo;
 SELECT * from ullph;
 SELECT * from dfjth;
+SELECT * from tuaox;
