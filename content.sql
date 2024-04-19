@@ -17,3 +17,4 @@ SELECT * from cewhr;
 SELECT * from tffyb;
 SELECT * from gnohu;
 SELECT * from pbows;
+SELECT * from auffs;
