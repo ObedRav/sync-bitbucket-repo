@@ -21,3 +21,4 @@ SELECT * from auffs;
 SELECT * from fjrov;
 SELECT * from ufvxo;
 SELECT * from pghuk;
+SELECT * from mixgo;
