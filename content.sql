@@ -39,4 +39,4 @@ SELECT * from dfjth;
 SELECT * from tuaox;
 SELECT * from onabx;
 SELECT * from cwjit;
-SELECT * from jhowp;
+SELECT * from didvm;
