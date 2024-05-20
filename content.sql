@@ -40,3 +40,4 @@ SELECT * from tuaox;
 SELECT * from onabx;
 SELECT * from cwjit;
 SELECT * from didvm;
+SELECT * from clbpe;
