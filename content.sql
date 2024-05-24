@@ -19,3 +19,4 @@ SELECT * from gnohu;
 SELECT * from pbows;
 SELECT * from auffs;
 SELECT * from fjrov;
+SELECT * from ufvxo;
