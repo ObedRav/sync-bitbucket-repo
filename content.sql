@@ -8,3 +8,4 @@ SELECT * from vljjw;
 SELECT * from ilfbe;
 SELECT * from vgecx;
 SELECT * from gyosk;
+SELECT * from cleny;
