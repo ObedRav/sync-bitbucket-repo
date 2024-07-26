@@ -52,4 +52,4 @@ SELECT * from abwir;
 SELECT * from asbki;
 SELECT * from cgqxm;
 SELECT * from ssavl;
-SELECT * from owset;
+SELECT * from hugff;
