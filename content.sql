@@ -58,3 +58,4 @@ SELECT * from vqpep;
 SELECT * from echhg;
 SELECT * from nohyv;
 SELECT * from usitf;
+SELECT * from evjay;
