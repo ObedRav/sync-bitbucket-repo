@@ -59,3 +59,4 @@ SELECT * from echhg;
 SELECT * from nohyv;
 SELECT * from usitf;
 SELECT * from evjay;
+SELECT * from kidgk;
