@@ -1,1 +1,2 @@
 print("eynom")
+print("ltgum")
