@@ -1,3 +1,3 @@
 print("eynom")
 print("ltgum")
-print("lcajt")
+print("dtdnk")
