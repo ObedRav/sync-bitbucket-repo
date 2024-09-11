@@ -1,3 +1,4 @@
 print("eynom")
 print("ltgum")
-print("ckcdb")
+print("sogsk")
+print("ecnpw")
