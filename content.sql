@@ -62,3 +62,4 @@ SELECT * from evjay;
 SELECT * from kidgk;
 SELECT * from fmwva;
 SELECT * from sukyo;
+SELECT * from ywwpj;
