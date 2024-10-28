@@ -125,3 +125,5 @@ SELECT * from hdfur;
 SELECT * from vdeef;
 SELECT * from svhue;
 SELECT * from mulbf;
+SELECT * from svjrw;
+SELECT * from cwscw;
