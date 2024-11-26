@@ -205,5 +205,3 @@ SELECT * from fnlxj;
 SELECT * from mnttj;
 SELECT * from oblaa;
 SELECT * from qlgww;
-SELECT * from nwwfk;
-SELECT * from jihra;
