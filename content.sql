@@ -205,3 +205,5 @@ SELECT * from fnlxj;
 SELECT * from mnttj;
 SELECT * from oblaa;
 SELECT * from qlgww;
+SELECT * from nwnce;
+SELECT * from eumtp;
