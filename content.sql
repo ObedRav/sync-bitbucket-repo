@@ -207,3 +207,5 @@ SELECT * from oblaa;
 SELECT * from qlgww;
 SELECT * from nwnce;
 SELECT * from eumtp;
+SELECT * from kebqg;
+SELECT * from mwdpc;
