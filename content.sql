@@ -249,3 +249,4 @@ SELECT * from yxklp;
 SELECT * from rxtje;
 SELECT * from okklu;
 SELECT * from laysq;
+SELECT * from tykpj;
