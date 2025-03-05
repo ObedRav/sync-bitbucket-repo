@@ -354,3 +354,5 @@ SELECT * from xukjv;
 SELECT * from bykgt;
 SELECT * from lgssp;
 SELECT * from nmxcs;
+SELECT * from xagkm;
+SELECT * from ylffl;
