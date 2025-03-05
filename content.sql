@@ -352,3 +352,5 @@ SELECT * from mfksu;
 SELECT * from lwiju;
 SELECT * from xukjv;
 SELECT * from bykgt;
+SELECT * from lgssp;
+SELECT * from nmxcs;
