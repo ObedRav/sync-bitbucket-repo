@@ -245,3 +245,7 @@ SELECT * from qurmc;
 SELECT * from bjpeg;
 SELECT * from utybx;
 SELECT * from icjca;
+SELECT * from txugw;
+SELECT * from eaoqv;
+SELECT * from xdfri;
+SELECT * from wwivv;
