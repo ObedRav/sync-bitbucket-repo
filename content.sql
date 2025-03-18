@@ -241,3 +241,7 @@ SELECT * from hwyld;
 SELECT * from nbuuf;
 SELECT * from ugfrk;
 SELECT * from tihkt;
+SELECT * from qurmc;
+SELECT * from bjpeg;
+SELECT * from utybx;
+SELECT * from icjca;
